@@ -1,0 +1,17 @@
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.deps.json
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.json
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.dev.json
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.pdb
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csprojAssemblyReference.cache
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfo.cs
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CopyComplete
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb

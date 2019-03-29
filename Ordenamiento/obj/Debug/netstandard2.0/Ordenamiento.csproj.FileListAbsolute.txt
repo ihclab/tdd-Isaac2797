@@ -1,0 +1,9 @@
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+c:\Users\Isaac\tdd-Isaac2797\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb
